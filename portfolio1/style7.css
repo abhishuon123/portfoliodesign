@@ -1,0 +1,23 @@
+ body {
+     margin: 0;
+     padding: 0px;
+     font-family: sans-serif;
+ }
+
+ #buttonone {
+     width: 120px;
+     height: 48px;
+     border: none;
+     transition: 0.6s ease;
+     font-size: 25px;
+     margin: 5px 2px;
+     text-align: center;
+     cursor: pointer;
+     border-radius: 23px;
+     -moz-border-radius: 23px;
+     -webkit-border-radius: 23px;
+     border: 1px solid #800000;
+     text-align: center;
+     justify-content: center;
+     float: right;
+ }
